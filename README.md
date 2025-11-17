@@ -1,4 +1,4 @@
-# README
+# PandA-Bambu HLS on GPU4S Benchmarks
 
 This is the repositery for the group project of the PD course (Processor Design) during the spring semester of year 2023/2024 at FIB institution. 
 
